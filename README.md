@@ -26,7 +26,7 @@ Usei "width: fit-content" para a largura das divs, permitindo que ela se ajustas
 Configuramos "display: block" para as imagens, garantindo que ocupassem uma linha completa e não fossem inseridas no fluxo de texto.
 
 <h2> 🌐 Resultado </h2> 
-<a href="" target="_blank"> Desafio 4</a>
+<a href="https://kathllynsantos.github.io/Elas-Na-Tech-Desafio4/" target="_blank"> Desafio 4</a>
 
 <h2> 💻 Tecnologias Utilizadas no Desafio</h2>
 
