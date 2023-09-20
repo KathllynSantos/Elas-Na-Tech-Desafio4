@@ -35,6 +35,7 @@ Configuramos "display: block" para as imagens, garantindo que ocupassem uma linh
 <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 <h2> Imagens do Desafio </h2>
+
 ![image](https://github.com/KathllynSantos/Elas-Na-Tech-Desafio4/assets/120657741/6b635307-8afd-4af3-848f-558a792729a8)
 ![image](https://github.com/KathllynSantos/Elas-Na-Tech-Desafio4/assets/120657741/e2fbde40-3449-41eb-ad54-9912179284af)
 
