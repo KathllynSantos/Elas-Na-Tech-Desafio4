@@ -1,4 +1,4 @@
-<div>
+
 <div align="center"> <h1> 👩🏾‍💻Quarto Desafio do Elas na Tech</h1> </div>
 
 Neste desafio, foquei na implementação da responsividade e fiz algumas melhorias na galeria de fotos. Atualmente, estou trabalhando em uma landing page com o tema Toy Story para celebrar o primeiro aniversário do meu filho, Lucca. A professora Gil costuma nos apresentar desafios empolgantes durante as aulas e desta vez ela nos explicou o conceito de responsividade e forneceu orientações específicas sobre como estruturar nosso código para o novo desafio.
